@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------
+                                    !! **IMPORTANT | : | READ ALL** !!
+----------------------------------------------------------------------------------------------------------
+
+To Install Any Updates, Join The Discord Server: https://discord.gg/bwwbmQt
+
+If You Get An Error Saying "Injection Failed", Or If The Exploit Does Not Attach At All, Check The #faq Channel In The Server.
+
+To Add Scripts To The Script List, Just Put '.txt' & '.lua' Files Into The Folder Named "Scripts".
+
+If Your Exploit Crashes Every Time You Attach, Delete The File Named "EasyExploitsDLL.dll" And Re-Open Vega.
+
+Any Extra Questions? DM Me For Help, Or Check The Server For Common Questions. Peace!
+
+----------------------------------------------------------------------------------------------------------
+
+I Hope You Enjoy Using Vega X!
+
+~ 1_F0#6252
+
+!!_- DISABLE ANTI-VIRUS BEFORE OPENING -_!!
+----------------------------------------------------------------------------------------------------------

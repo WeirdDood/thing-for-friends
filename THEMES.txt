@@ -1,0 +1,11 @@
+*******
+How To Use Simple Custom UI Themes For Vega X:
+
+1. Get Your Image (The Bigger The Better)
+2. Open Vega
+3. Drag + Drop Your Image Into Any Blank Space In-Between Any 2 Buttons On The Bottom Row.
+4. Enjoy! (Go Click The "UI Themes" Button And Find "Remove Custom Theme" To Remove The Theme.
+
+~ 1_F0#6252
+
+*******
